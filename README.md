@@ -26,3 +26,5 @@ This system needes two 9V voltage supply as input one for microprocessor and the
 HC05 Bluetooth Module was used in this project to connect the system to an Android device. RX pin of HC05 was connected to TX pin of PIC16F877A and TX pin of HC05 was connected to RX pin of PIC16F877A. This module needes 5V as power input.
 
 All schemes and code parts are shared in this repository.
+
+This project was presented as MKT3811-Microprocessors and Programming Course in Yildiz Technical University. 
